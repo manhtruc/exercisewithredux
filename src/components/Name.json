@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Default",
+        "class": "default",
+        "edit": false
+    },
+    {
+        "id": 2,
+        "name": "Game",
+        "class": "game"
+    },
+    {
+        "id": 3,
+        "name": "Movie",
+        "class": "movie"
+    },
+    {
+        "id": 4,
+        "name": "Music",
+        "class": "music"
+    },
+    {
+        "id": 5,
+        "name": "Custom 1",
+        "class": "default"
+    },
+    {
+        "id": 6,
+        "name": "demo long text demo long text demo",
+        "class": "default"
+    }
+]
